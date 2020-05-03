@@ -1,3 +1,7 @@
+StackOverflow Answer:
+
+https://stackoverflow.com/a/61562264/8302000
+
 # groovy-mongodb
 
 Just to simplify, all the files are in the same directory.
